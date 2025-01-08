@@ -1,7 +1,7 @@
 <!--sylph-daoist-->
 
 <a href="https://www.youtube.com/watch?v=d7hc_GrZP4Y&list=RDMM&index=4" target="_blank">
-  <img src="https://github.com/user-attachments/assets/522aa53d-96fb-4a93-9ac7-9d024b6e5626" alt="Screenshot from 2025-01-02 02-03-30">
+  <img src="https://avatars.githubusercontent.com/u/8673894?v=4" alt="HONK!">
 </a>
 
 ---
