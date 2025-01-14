@@ -1,4 +1,4 @@
-# Alfe AI:
+# Alfe AI
 
 [**Alfe AI**: Your AI Software Engineer](https://alfe.dev)
 
