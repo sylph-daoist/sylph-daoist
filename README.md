@@ -14,6 +14,8 @@
 
 [**Alfe AI**: Your AI Software Development Platform](https://alfe.dev)  
 
+[GitHub](https://github.com/alfe-ai)
+
 --- 
 
 ### Other Projects:
