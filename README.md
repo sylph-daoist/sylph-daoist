@@ -2,6 +2,8 @@
 
 [**Alfe AI**: Your AI Software Engineer](https://alfe.dev)
 
+Beta releasing January 25, 2025.
+
 [GitHub](https://github.com/alfe-ai)
 
 --- 
