@@ -12,7 +12,9 @@
 
 # Alfe AI:
 
-[**Alfe AI**: Your AI Software Development Platform](https://alfe.dev)  
+<!-- [**Alfe AI**: Your AI Software Development Platform](https://alfe.dev)  -->
+
+[**Alfe AI**: Your AI Software Engineer](https://alfe.dev)
 
 [GitHub](https://github.com/alfe-ai)
 
