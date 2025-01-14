@@ -1,8 +1,8 @@
 <!--sylph-daoist-->
 
-<a href="https://www.youtube.com/watch?v=d7hc_GrZP4Y&list=RDMM&index=4" target="_blank">
+<!-- <a href="https://www.youtube.com/watch?v=d7hc_GrZP4Y&list=RDMM&index=4" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/8673894?v=4" alt="HONK!">
-</a>
+</a> -->
 
 ---
 
