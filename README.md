@@ -6,6 +6,8 @@
 
 [GitHub](https://github.com/alfe-ai)
 
+[Contact](mailto:alfe@lochner.tech)
+
 --- 
 
 ### Other Projects:
