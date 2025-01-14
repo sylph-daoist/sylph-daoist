@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: Your AI Software Engineer | Software Development Platform" width="100">
 
-[**Alfe AI**: Your AI Software Engineer | Software Development Platform](https://alfe.dev)
+[**Alfe AI**: Your AI Software Engineer](https://alfe.dev) | Software Development Platform  
 
 **Beta**: Releasing January 25, 2025. https://alfe.dev/beta <!-- For Beta, Beta is not going to support enterprise users yet. Enterprise Q2 2025.-->
 
