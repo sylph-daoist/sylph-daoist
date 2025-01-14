@@ -4,7 +4,7 @@
 
 [**Alfe AI**: Your AI Software Development Platform](https://alfe.sh)  
 
-**Beta**: Releasing January 25, 2025. https://alfe.sh/beta <!-- For Beta, Beta is not going to support enterprise users yet. Enterprise Q2 2025.-->
+**Beta**: https://alfe.sh/beta <!-- For Beta, Beta is not going to support enterprise users yet. Enterprise Q2 2025.-->
 
 [GitHub](https://github.com/alfe-ai)
 
