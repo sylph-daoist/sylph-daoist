@@ -1,6 +1,6 @@
 # Alfe AI
 
-<img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: Your AI Software Engineer" width="100">
+<img src="https://avatars.githubusercontent.com/u/194872969?s=200&v=4" alt="Alfe AI: Your AI Software Engineer | Software Development Platform" width="100">
 
 [**Alfe AI**: Your AI Software Engineer](https://alfe.dev)
 
