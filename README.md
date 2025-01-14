@@ -10,7 +10,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/185224928?s=64&v=4" alt="FayRa" width="30"> &nbsp; **FayRa**: [GitHub](https://github.com/fay-ra), [Website](https://fayra.com)<!--(eCommerce / Logistics)-->, [Contact](mailto:support@fayra.com), [eBay](https://www.ebay.com/str/fayralogistics), [Amazon](https://www.amazon.com/shops/fayra)  
 
-**Faystation**: Coming soon. Like Baystation if you replaced the B with an F.
+<!-- **Faystation**: Coming soon. Like Baystation if you replaced the B with an F. -->
 
 <!-- redo old svn portfolio website to lochner.tech -->
 
